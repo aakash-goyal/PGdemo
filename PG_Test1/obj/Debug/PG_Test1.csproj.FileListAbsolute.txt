@@ -1,0 +1,15 @@
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\PG_Test1.exe.config
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\PG_Test1.exe
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\PG_Test1.pdb
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\obj\Debug\PG_Test1.csproj.App.config
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\obj\Debug\PG_Test1.csprojAssemblyReference.cache
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\obj\Debug\PG_Test1.csproj.CoreCompileInputs.cache
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\obj\Debug\PG_Test1.csproj.CopyComplete
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\obj\Debug\PG_Test1.exe
+C:\Users\aagoyal\Documents\Project\P&G\Visual Studio\PG_Test1\PG_Test1\obj\Debug\PG_Test1.pdb
